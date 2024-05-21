@@ -63,7 +63,7 @@ To run the code in this repository, you need the following:
 
 A detailed video presentation explaining the analysis is available on YouTube. Watch the video to get a comprehensive understanding of the insights and findings.
 
-🔗 **YouTube Video:** [Link to the video]
+🔗 **YouTube Video:** [Link to the video](https://youtu.be/8PnBp4qENeU)
 
 ## Contributing
 
